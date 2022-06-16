@@ -5,5 +5,7 @@ public class A {
 		System.out.println("Test A");
 		B b1 = new B();
 		b1.printB();
+		C c1 = new C();
+		c1.printC();
 	}
 }
